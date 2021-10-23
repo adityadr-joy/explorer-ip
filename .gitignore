@@ -14,7 +14,7 @@
 dataService/build/tmp
 dataService/build/zss
 /lib
-/web
+#/web
 
 # misc
 .DS_Store
@@ -24,7 +24,7 @@ node_modules/
 lib
 .nyc_output/
 coverage/
-web
+#web
 dist
 zlux
 
